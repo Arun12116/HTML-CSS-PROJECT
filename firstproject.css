@@ -1,0 +1,40 @@
+ul{
+    border-radius: 40px;
+    margin: 0px;
+    padding: 0px;
+    /* to remove underline */
+    list-style: none;
+    height: 45px;
+    line-height: 34px;
+    font-size: 18px;
+    background-color: rgb(100, 62, 56);
+    
+    
+}
+li{
+    float: left;
+    border-radius: 2px;
+    
+
+}
+#id{
+    float: left;
+}
+a{
+color: white;
+margin: 10px;
+padding: 10px;
+text-decoration: none;
+}
+ a:hover{
+background-color: violet;
+}
+body{
+    background-image:url();
+height: 20px;
+background-size: cover;
+background-position: center;
+}
+.pra{
+    border-radius: 3px;
+}
